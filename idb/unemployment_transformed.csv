@@ -1,0 +1,13 @@
+country_name,sex,age_group,age_categories,2018,2019,2020,2021,2022,2023,2024
+New Zealand,Female,15-24,Youth,11.015,11.493,12.627,10.126,9.057,10.487,11.53
+New Zealand,Female,25+,Adults,3.337,3.172,3.682,2.804,2.543,2.755,2.961
+New Zealand,Female,Under 15,Children,4.503,4.419,4.986,3.89,3.536,3.929,4.237
+New Zealand,Male,15-24,Youth,12.65,11.16,12.283,10.763,9.586,10.832,11.925
+New Zealand,Male,25+,Adults,2.735,2.598,2.93,2.499,1.975,2.299,2.566
+New Zealand,Male,Under 15,Children,4.193,3.829,4.255,3.68,3.085,3.55,3.91
+United States,Female,15-24,Youth,7.657,7.313,14.794,8.865,7.437,7.033,7.671
+United States,Female,25+,Adults,3.234,3.024,7.347,4.628,3.007,2.904,3.098
+United States,Female,Under 15,Children,3.841,3.611,8.346,5.21,3.612,3.475,3.724
+United States,Male,15-24,Youth,9.508,9.359,14.946,10.484,8.707,8.876,9.903
+United States,Male,25+,Adults,3.155,2.912,6.794,4.739,2.952,3.063,3.257
+United States,Male,Under 15,Children,3.951,3.721,7.796,5.47,3.682,3.798,4.08
